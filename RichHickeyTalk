@@ -1,0 +1,128 @@
+
+A Talk by Rich Hickey @ https://www.youtube.com/watch?v=f84n5oFoZBc
+
+Step Away from the Computer ( Hammaock Driven development )  
+       - a Talk by Rich Hickey ( inventor of Clojure )
+       - It is more of  a Philosophical Talk
+       - It's a Rant 
+It's an Experience report
+       - It's not Science ( Cognitive, Social or Comp Sci. )
+
+When was the lsat time, 
+        - You thought one thing for entire hour?
+        - Day / Week / Month / Year ?
+        - Rich considers himself to be lucky to have focused on 
+               three problems for an year? ( Designing Clojure was one of them)
+        - Felt confident while implementing something for the first time?
+
+Bugs
+       - Most Expensive in Production
+       - Expensive in Q&A
+       - Cheaper to Fix in Dev
+       - Least Expensive to avoid in Design
+       - Biggest Problems in Software developmet are problem of misconception
+       - Testing and Type Systems cannot do anything to mitigate misconception problems
+
+Analysis and Design (A&D)
+       - might appear 90sish
+       - aversion to UML and process illustration
+       - This step is very much necessary ( though how we executed it was wrong in those days)
+       - We are suffering because we ignore Analysis and Design aspect
+       - A & D is about making sure that we understand and  are solving problems 
+Solve Problems 
+       - We should be solving problems 
+       - Features are results, not objectives 
+       - Sum of all features do not comprise a Solution 
+       - See, whether we introduce new problems en route our solutions  
+       - Avoiding Problems != Solving problems ( very important!)
+       - Solving Problems requires
+              - understanding , recognizing and stating them
+George Polya's How to Solve it?
+      - Mathematical , But relavant for any kind of problem solving 
+	Humans get good at what they practice
+   		- Practice Problem solving 
+           
+
+	State the Problem
+  		 - Writing it down or talking loud about it helps
+
+	Understand the Problem (What do you know ? )
+       - Facts , Context, Constraints
+
+	What dont you know ? ( Known unknowns )
+
+	Are there related problems?
+
+	Write all of it down
+
+Be Discerning ( Self critical )
+   - Find the problems in our solutions ( rectify it!)
+   - Any Tradeoffs? / Any Questions?
+
+More Input, Better Output
+    - Read around , Look at other solutions crutucally , grapevine ( search for more info)
+
+Trade Offs 
+     - Find at least two alternate solutions and critically evaluate them
+
+Focus 
+    - Refers Mihaly Czicksenthmihlayi;s flow
+    - Go away from your computers!
+
+Waking Mind ( vs Background mind )
+     - Good at critical thinking 
+         - analytics, tactics
+     - Wary of the "Local Maxima" ( There is always a uphill )
+
+Background mind (Type 2 brain - Daniel 
+      - Use waking mind , give tasks to background mind
+      - Good at holistic thinking 
+           - Synthesis (as opposed to analysis)
+           - Strategy
+           - abstracts, analogizes
+           - Good at finding "Global maxima"
+      - Solver of non trivial problem
+
+Passive Problem Solving (as per scientifc american )
+      - As we snooze, our brain is active 
+      - Sleep makes memories stronger
+      - Finding hidden relations ( while at sleep!)
+
+Load it up (carefully)
+      - Optimal load is 7 +/- 2 components
+      - Write proposed solution down
+          - A Picture is worth 1000 words ( do not use UML!)
+      - Go over components in different order
+      - Trigger the mind's eye ( on a hammock)
+
+Wait for it!
+      - At least, wait for one night!
+      - More you sleep, better the results ( you might get solution while you sleep!)
+      - Big problems require weeks and months ( some problems require years to solve it!)
+      - Always work on multiple problems ( But, one problem in one time window) 
+      - Amortize the loading time! 
+
+Wake up working 
+       -  You might get the Eureka moment ( ala Archemedies)
+       -  Some times you might get solution on some other problems 
+       -  be ready to capture that serendipity 
+
+Trying it 
+       - Eventually everything has to be Coded
+       - Code parts at time to gain confidence (on things you have not done before )
+       - Gain feedback ( by running it )
+
+You might still be Wrong ( in the end )
+       - Need not get things correct in the first iteration
+       - Paraphrasing John Maynard Keynes (Economist)
+	   - "When the facts change, I change my mind, what you do sir?"
+       - Do not be afraid of being wrong!
+
+Summary
+       - It was a rant!
+     
+
+
+      
+
+
