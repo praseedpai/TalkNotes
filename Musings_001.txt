@@ -1,0 +1,54 @@
+NOTES := Enterprise Computing - Is it  a Science or Art?
+
+Enterprise - An Interational firm or concern with operations world wide 
+             An Indian firm which has got Operations world wide - Bharti Telecom
+
+Application development - Financial Accounting ( Accounts Payable/Recievable ) ,
+                          Payroll Processing , Logistics , Supply Chain, Human resources,
+                          Learning Platforms - Chief Informaiton Officer ( CIO )
+    
+Procure Applications :- SAP FiCO , Oracle Financials ( Pre Packaged Application )
+
+Build vs Buy :- Buy 
+Buy Site Licenses or Pay By Use platforms  ( Capex vs Opex debate )
+
+Custom Application Development using .NET/Java/MEAN/PHP/Python-WSGI 
+Data Delivery ( Reports ) to user console or mobile ( REST API )
+
+IFlex , Finnacle ( Banking Platforms )
+---------------------------------------------------------
+========================================================
+Traits of a good Enterprise platform developer
+
+1) Good at, Atleast One Platform - .NET/Java/MEAN/PHP/Python-WSGI 
+            - .NET Eco System & JEE Eco System , Rest of the Platforms ( On the fly - Rookie Smartness )
+
+2) Architectural/Design/Programming Model/Implementation skill
+       - Architecture deals with the Structural Aspect of your IT assets ( Structaralist Approach )
+                - Web Architecture => MVC,MVP,MVVM,SPA
+                - Data Intensive Architecture ( Spark/Storm/Kafka/Flink/Kinesis )
+                       - Spark ( Data Parallelism )
+                       - Storm ( Task Parallelism )
+                       - Kafka ( Queueing/Streaming/Peristance) - judicious use of Retention period
+                       - Storage Systems ( Azure Blob Storage, Amazon S3 , Red HAT CEPH )
+                       - NoSQL databases ( Cassandra, MongoDB, GraphQL , ClickHouse etc )
+       - Design is mostly concerned about Behavioral Aspects of your IT assets ( Behaviorist Approach )
+		       - Spark Design
+				- Streaming system ( Java streams , Microsoft Rx )
+                                - Microsoft Rx can be treated as Reverse LINQ 
+                                - Shared Parallel Programming using PLINQ
+                                - Spark is nothing but, Parallel Programming at a Distrubuted level 
+                       - Serial,Symchronous , Parallel , Distributed uses one single Programming model
+                       - Functional Programming (Design) ,Stream Programming (Design) , Generic Programming, Task Parallel Programming
+       - Programming Model view of things 
+		- OOP , OOP/FP , FRP (Rx ) , Concurrency/Parallelism models , Lock Free Programming 
+                -  Serial,Symchronous , Parallel , Distributed uses one single Programming model
+                - Functional Programming (Design) ,Stream Programming (Design) , Generic Programming, Task Parallel Programming
+       - Implementation deals with how you encode your solutions 
+		- You should be sure about what we are supposed to do
+                - Technical Debt ( Consult Martin Fowler's Bliki )
+                - Code Smell 
+                - Refactor only when code has gone to production
+
+
+Information Architecture 
