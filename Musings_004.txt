@@ -1,0 +1,55 @@
+Three Funny maxims which can help in Thinking Clearly
+
+Parkinson's Law
+=================
+
+      - "Work expands, so as to fill the time available for it's completion" - Parkinson's Law
+          - Somebody entrusts a task and the duration is two weeks 
+		- Even if the task can be finsihed in two days, one will take two weeks
+          - People seems to like the rat race to finish
+
+      - Death March - Last two weeks of any project where people get into a war room and finish their tasks
+		- A famous CAD/CAM company outsourced application development work to a team headed by me
+                - There were relationship issues, as kind of things American engineers do during the death march
+                    they forced to do in the earlier stage of the project
+
+      - That particular poject were finshed in a smooth manner and I learned a valuable lesson.
+                 Outsourcing is great! ( Not only cost, you can get a robust development process )
+                 Beauty of distributed development got manifested
+      - Nanden Nilakeni's Global delivery model 
+
+Peter Principle
+================
+      Lawrence J Peter wrote a influential book titled, "Peter Principle" in 1960/1970
+      I learned these maxims at the age of 18,thanks to one Mr. Sabu Paul
+      
+      In a hierarchy,"Every man rises to his level of incompetence" 
+            - A man/woman will move from state of competence to incompetence 
+                  - Mohan das Pai was CFO of Infosys. He became CPO of Infosys
+                          - Thus began all HR problems there ( it's an allegation )
+            - Somebody was good at coding. He will be promoted to become a Team/Tech lead
+            - Soon he will be promoted as an Associate Architect ( Technical Architect, Solutions Architect etc )
+
+      According to Praseed Pai, "Any one who has fooled around in the Software Industry for a considerable amount
+      of time (ever shrinking span ) , who is past his prime,systematically moved up in the value chain to do 
+      least harm"
+      
+     - Some companies promote people to become architects
+	 - In Hindi, "Zaroorat Padne Pe, Gadhe ko bhi baap banana padtha hai"
+         - An Owner of a company will confer Architect Position to everyone after first year of their employment
+		- It was a clever ploy against the employees, as they won't be hired by others
+        
+Murphy's law
+============
+      - Murphy's law states that, "If something has to go wrong, it will (always ) go wrong"
+      - Do not fix things, beyond a certain point
+      - A system will go from Order to Disorder ( increasing entropy )
+      
+-------------------------------------------------
+    Perpetual Sublimation - Grow horizontally ( do not go verticaly )
+                            One needs to innovate to be able to enact this strategy successfully
+                            It can be circular growth
+    Willfull Poverty - One learn to live "Poor" 
+
+    We can use this for a Positive Living!!!
+
