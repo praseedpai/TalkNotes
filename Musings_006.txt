@@ -1,0 +1,70 @@
+Knowledge acquistion or Knowledge Curation - Which one is better?
+
+   - Curator is one who collects specimen to a Museum
+   - Knowledge Curation is a strategy by which we qcquire Knowledge 
+   - Knowledge qcquisition pre-supposes that individual traits do matter
+
+The problem comes from the fact that , most people assume Smartness is due to innate qualities
+     of an Individual ( Nature vs Nurture )
+
+In the formative yers, nature does play a role ( at least, correlative role )
+
+But, any kind of advanced competence is the result of deliberate study, exposure, attitude and the 
+   problems he or she has solved ( or forced to solve )
+
+In smartness, people ignore the effect of "Randomness" 
+
+  - Why I could write a book on C++ Rx programming?
+	- Anoop madhusoodhanan wrote a blog entry in his AmazedSaint.blogspot.com on .NET Rx
+        - He was very excited about presenting that topic ( it was in 2011 )
+        - Rx = LINQ + Events + Scheduler
+        - In 2014, I became part of an engagement where previous Vendor wrote an Input subsystem using Rx model
+        - At that point in time, I remembered about Anoop's blog 
+        - For a person with hammer, everything is a nail ( I happen to consult in  RxJava project and a WPF project)
+
+        - In 2016, when I wrote C# Design patterns (along with Shine Xavier), we included three chapters on Rx
+        - After writing it, I did study Rx implementations across languages
+        - In 2017, when packt was looking for an author, I was ready with the proper competence
+
+The problem faced by most people is that , they have not yet solved their Identity problem
+
+          - To curate knowledge, you should shamelessly discuss about various topics
+          - If you have not resolved  your identity problem, it is very difficult to ask
+          - When you ask too many questions, people might thnk that you do not know much
+Once you solve your Identity problem, it is very easy to curate knowledge
+          - Otherwise, fear of being accused as a "DODO" will prevent people from asking for information
+
+Even if you get the information, it will be fuzzy and potential anomalies might be there
+	- You should have set of Logical tools to distinguish between facts and opinions ( and sometimes errors )
+        - One should posses discretionary faculty and should be able to discriminate within each level of description
+        - One should be able to empirically verify what has been arrived at
+
+There is something called, "Garbage In, Garbage Out" problem
+       - Dialogical techniques helps you to do some kind of a due diligence 
+       - By the time you consult authentic sources, you might be thorough with the Ontology
+       - Mathematical tools like predicate logic, set theory , algebraic structures and informal logic might be handy
+       - One should improve language finsesse as well
+
+We cannot transcend Physical limit, if we do not collaborate with people
+Collaboation with people gives you representative facts
+In the process, you might acquire lot of Models and Meta Models as well
+
+Ontology callibration is a necessary step while soliciting information
+    - Layers are logical entities , where Tier is Physical ( Usual norm or convention )
+    - JEE blue prints defines this otherwise 
+
+Problem is the People who act as Knowledge source , use lot of "Anecdotal explanation" with examples galore 
+    - Sometimes discussion will drift in different direction
+    - The Interviewer should steward the discussion
+    - It is always better to have multiple SMEs and Many model thinking ( Or Model driven reality )
+
+==========================================================================================
+
+A) Materialistic world view => Empricial Evidence ( POC ) => They Rationalize
+B) Idealistic world view ( based on models ) => Rationalization (Generate and Test ) => Emprical validation (POC)
+
+We should not be "Self Centric" while curating knowledge ( Introspective )
+
+
+
+
